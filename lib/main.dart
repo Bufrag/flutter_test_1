@@ -3,5 +3,5 @@ import 'dart:async';
 import 'dart:convert';
 
 void main() {
-  runApp(MaterialApp());
+  runApp(const MaterialApp());
 }
